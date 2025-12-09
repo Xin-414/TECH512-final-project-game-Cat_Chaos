@@ -26,8 +26,8 @@ The OLED displays an action. Perform it before time runs out.
 | Action        | Trigger Method                     |
 |---------------|------------------------------------|
 | **PAW**       | Press encoder button               |
-| **TAIL_LEFT** | Rotate encoder left                |
-| **TAIL_RIGHT**| Rotate encoder right               |
+| **TAIL_LEFT** | Rotate encoder Counter-Clockwise                |
+| **TAIL_RIGHT**| Rotate encoder Clockwise               |
 | **SHAKE**     | Shake the device                  |
 | **FLIP**      | Flip device upside down            |
 
