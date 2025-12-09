@@ -74,7 +74,7 @@ If your score is within the top 3:
 | Rotary Encoder DT | D6 |
 | Encoder Button SW | D3 |
 | NeoPixel | D2 |
-| Buzzer (PWM) | D9 |
+| Buzzer (PWM) | D10 |
 | Power | LiPo → Switch → 5V → GND |
 
 ---
